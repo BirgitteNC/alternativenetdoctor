@@ -1,0 +1,28 @@
+alternativenetdoctor/
+├── backend/ (Strapi CMS)
+│   ├── config/
+│   ├── src/
+│   │   ├── api/
+│   │   │   ├── article/
+│   │   │   ├── symptom-condition/
+│   │   │   ├── supplement-herb/
+│   │   │   ├── product/
+│   │   │   ├── partner/
+│   │   │   └── category/
+│   │   ├── extensions/
+│   │   └── plugins/
+│   ├── public/
+│   └── package.json
+│
+├── frontend/ (Next.js)
+│   ├── public/
+│   ├── src/
+│   │   ├── app/
+│   │   ├── components/
+│   │   ├── lib/
+│   │   ├── locales/
+│   │   └── types/
+│   ├── next.config.js
+│   └── package.json
+│
+└── README.md

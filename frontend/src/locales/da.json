@@ -1,0 +1,84 @@
+{
+  "HomePage": {
+    "title": "Alternativ Netdoktor - Forside",
+    "description": "Din kilde til alternativ sundhedsinformation",
+    "welcome": "Velkommen til Alternativ Netdoktor",
+    "intro": "Udforsk vores omfattende database med artikler, kosttilskud og symptomer.",
+    "articles": "Artikler",
+    "articlesDesc": "Læs vores ekspertskrevne artikler om sundhed.",
+    "supplements": "Kosttilskud",
+    "supplementsDesc": "Find information om naturlige kosttilskud.",
+    "symptoms": "Symptomer",
+    "symptomsDesc": "Søg efter symptomer og tilstande."
+  },
+  "common": {
+    "siteName": "Alternativ Netdoktor",
+    "search": "Søg",
+    "searchPlaceholder": "Søg på symptomer, lidelser eller kosttilskud...",
+    "readMore": "Læs mere",
+    "learnMore": "Lær mere",
+    "viewAll": "Se alle",
+    "backToHome": "Tilbage til forsiden",
+    "loading": "Indlæser...",
+    "error": "Der opstod en fejl",
+    "noResults": "Ingen resultater fundet"
+  },
+  "nav": {
+    "home": "Forside",
+    "articles": "Artikler",
+    "symptoms": "Symptomer",
+    "supplements": "Kosttilskud",
+    "products": "Produkter",
+    "about": "Om os",
+    "contact": "Kontakt"
+  },
+  "footer": {
+    "disclaimer": "Alternativ Netdoktor erstatter ikke lægefaglig rådgivning. Kontakt altid din læge ved alvorlige symptomer.",
+    "privacy": "Privatlivspolitik",
+    "terms": "Vilkår og betingelser",
+    "cookies": "Cookie politik",
+    "copyright": "© 2025 Alternativ Netdoktor. Alle rettigheder forbeholdes."
+  },
+  "article": {
+    "shortExplanation": "Kort forklaring",
+    "symptoms": "Symptomer",
+    "causes": "Mulige årsager",
+    "naturalApproaches": "Naturlige tilgange",
+    "lifestyleAdvice": "Livsstilsråd",
+    "whenToSeeDoctor": "Hvornår skal du kontakte læge",
+    "recommendedProducts": "Anbefalede produkter",
+    "relatedArticles": "Relaterede artikler",
+    "sources": "Kilder",
+    "lastUpdated": "Sidst opdateret",
+    "readingTime": "min læsning",
+    "author": "Forfatter"
+  },
+  "product": {
+    "price": "Pris",
+    "addToCart": "Tilføj til kurv",
+    "buyNow": "Køb nu",
+    "outOfStock": "Udsolgt",
+    "description": "Beskrivelse",
+    "dosage": "Dosering",
+    "ingredients": "Ingredienser",
+    "warnings": "Advarsler",
+    "supplier": "Leverandør"
+  },
+  "search": {
+    "title": "Søgeresultater",
+    "filterBy": "Filtrer efter",
+    "sortBy": "Sorter efter",
+    "categories": "Kategorier",
+    "type": "Type",
+    "allTypes": "Alle typer"
+  },
+  "categories": {
+    "sleep": "Søvn",
+    "stress": "Stress",
+    "digestion": "Fordøjelse",
+    "energy": "Energi",
+    "immunity": "Immunforsvar",
+    "pain": "Smerter",
+    "hormones": "Hormoner"
+  }
+}

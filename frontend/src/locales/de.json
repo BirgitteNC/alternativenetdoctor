@@ -1,0 +1,72 @@
+{
+  "common": {
+    "siteName": "Alternative Netdoktor",
+    "search": "Suchen",
+    "searchPlaceholder": "Suchen Sie nach Symptomen, Zuständen oder Nahrungsergänzungsmitteln...",
+    "readMore": "Weiterlesen",
+    "learnMore": "Mehr erfahren",
+    "viewAll": "Alle anzeigen",
+    "backToHome": "Zurück zur Startseite",
+    "loading": "Lädt...",
+    "error": "Ein Fehler ist aufgetreten",
+    "noResults": "Keine Ergebnisse gefunden"
+  },
+  "nav": {
+    "home": "Startseite",
+    "articles": "Artikel",
+    "symptoms": "Symptome",
+    "supplements": "Nahrungsergänzungsmittel",
+    "products": "Produkte",
+    "about": "Über uns",
+    "contact": "Kontakt"
+  },
+  "footer": {
+    "disclaimer": "Alternative Netdoktor ersetzt keine professionelle medizinische Beratung. Wenden Sie sich bei ernsthaften Symptomen immer an Ihren Arzt.",
+    "privacy": "Datenschutzrichtlinie",
+    "terms": "Allgemeine Geschäftsbedingungen",
+    "cookies": "Cookie-Richtlinie",
+    "copyright": "© 2025 Alternative Netdoktor. Alle Rechte vorbehalten."
+  },
+  "article": {
+    "shortExplanation": "Kurze Erklärung",
+    "symptoms": "Symptome",
+    "causes": "Mögliche Ursachen",
+    "naturalApproaches": "Natürliche Ansätze",
+    "lifestyleAdvice": "Lebensstilberatung",
+    "whenToSeeDoctor": "Wann zum Arzt",
+    "recommendedProducts": "Empfohlene Produkte",
+    "relatedArticles": "Verwandte Artikel",
+    "sources": "Quellen",
+    "lastUpdated": "Zuletzt aktualisiert",
+    "readingTime": "Min. Lesezeit",
+    "author": "Autor"
+  },
+  "product": {
+    "price": "Preis",
+    "addToCart": "In den Warenkorb",
+    "buyNow": "Jetzt kaufen",
+    "outOfStock": "Ausverkauft",
+    "description": "Beschreibung",
+    "dosage": "Dosierung",
+    "ingredients": "Zutaten",
+    "warnings": "Warnungen",
+    "supplier": "Lieferant"
+  },
+  "search": {
+    "title": "Suchergebnisse",
+    "filterBy": "Filtern nach",
+    "sortBy": "Sortieren nach",
+    "categories": "Kategorien",
+    "type": "Typ",
+    "allTypes": "Alle Typen"
+  },
+  "categories": {
+    "sleep": "Schlaf",
+    "stress": "Stress",
+    "digestion": "Verdauung",
+    "energy": "Energie",
+    "immunity": "Immunität",
+    "pain": "Schmerzen",
+    "hormones": "Hormone"
+  }
+}

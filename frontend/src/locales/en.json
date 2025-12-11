@@ -1,0 +1,72 @@
+{
+  "common": {
+    "siteName": "Alternative NetDoctor",
+    "search": "Search",
+    "searchPlaceholder": "Search for symptoms, conditions or supplements...",
+    "readMore": "Read more",
+    "learnMore": "Learn more",
+    "viewAll": "View all",
+    "backToHome": "Back to home",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "noResults": "No results found"
+  },
+  "nav": {
+    "home": "Home",
+    "articles": "Articles",
+    "symptoms": "Symptoms",
+    "supplements": "Supplements",
+    "products": "Products",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "footer": {
+    "disclaimer": "Alternative NetDoctor does not replace professional medical advice. Always contact your doctor for serious symptoms.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms and Conditions",
+    "cookies": "Cookie Policy",
+    "copyright": "© 2025 Alternative NetDoctor. All rights reserved."
+  },
+  "article": {
+    "shortExplanation": "Brief Explanation",
+    "symptoms": "Symptoms",
+    "causes": "Possible Causes",
+    "naturalApproaches": "Natural Approaches",
+    "lifestyleAdvice": "Lifestyle Advice",
+    "whenToSeeDoctor": "When to See a Doctor",
+    "recommendedProducts": "Recommended Products",
+    "relatedArticles": "Related Articles",
+    "sources": "Sources",
+    "lastUpdated": "Last updated",
+    "readingTime": "min read",
+    "author": "Author"
+  },
+  "product": {
+    "price": "Price",
+    "addToCart": "Add to cart",
+    "buyNow": "Buy now",
+    "outOfStock": "Out of stock",
+    "description": "Description",
+    "dosage": "Dosage",
+    "ingredients": "Ingredients",
+    "warnings": "Warnings",
+    "supplier": "Supplier"
+  },
+  "search": {
+    "title": "Search Results",
+    "filterBy": "Filter by",
+    "sortBy": "Sort by",
+    "categories": "Categories",
+    "type": "Type",
+    "allTypes": "All types"
+  },
+  "categories": {
+    "sleep": "Sleep",
+    "stress": "Stress",
+    "digestion": "Digestion",
+    "energy": "Energy",
+    "immunity": "Immunity",
+    "pain": "Pain",
+    "hormones": "Hormones"
+  }
+}

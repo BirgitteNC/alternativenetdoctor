@@ -1,0 +1,72 @@
+{
+  "common": {
+    "siteName": "NetDoctor Alternativo",
+    "search": "Buscar",
+    "searchPlaceholder": "Busque síntomas, condiciones o suplementos...",
+    "readMore": "Leer más",
+    "learnMore": "Aprender más",
+    "viewAll": "Ver todo",
+    "backToHome": "Volver al inicio",
+    "loading": "Cargando...",
+    "error": "Ocurrió un error",
+    "noResults": "No se encontraron resultados"
+  },
+  "nav": {
+    "home": "Inicio",
+    "articles": "Artículos",
+    "symptoms": "Síntomas",
+    "supplements": "Suplementos",
+    "products": "Productos",
+    "about": "Acerca de",
+    "contact": "Contacto"
+  },
+  "footer": {
+    "disclaimer": "NetDoctor Alternativo no reemplaza el consejo médico profesional. Siempre contacte a su médico para síntomas graves.",
+    "privacy": "Política de privacidad",
+    "terms": "Términos y condiciones",
+    "cookies": "Política de cookies",
+    "copyright": "© 2025 NetDoctor Alternativo. Todos los derechos reservados."
+  },
+  "article": {
+    "shortExplanation": "Breve explicación",
+    "symptoms": "Síntomas",
+    "causes": "Posibles causas",
+    "naturalApproaches": "Enfoques naturales",
+    "lifestyleAdvice": "Consejos de estilo de vida",
+    "whenToSeeDoctor": "Cuándo ver a un médico",
+    "recommendedProducts": "Productos recomendados",
+    "relatedArticles": "Artículos relacionados",
+    "sources": "Fuentes",
+    "lastUpdated": "Última actualización",
+    "readingTime": "min de lectura",
+    "author": "Autor"
+  },
+  "product": {
+    "price": "Precio",
+    "addToCart": "Añadir al carrito",
+    "buyNow": "Comprar ahora",
+    "outOfStock": "Agotado",
+    "description": "Descripción",
+    "dosage": "Dosificación",
+    "ingredients": "Ingredientes",
+    "warnings": "Advertencias",
+    "supplier": "Proveedor"
+  },
+  "search": {
+    "title": "Resultados de búsqueda",
+    "filterBy": "Filtrar por",
+    "sortBy": "Ordenar por",
+    "categories": "Categorías",
+    "type": "Tipo",
+    "allTypes": "Todos los tipos"
+  },
+  "categories": {
+    "sleep": "Sueño",
+    "stress": "Estrés",
+    "digestion": "Digestión",
+    "energy": "Energía",
+    "immunity": "Inmunidad",
+    "pain": "Dolor",
+    "hormones": "Hormonas"
+  }
+}

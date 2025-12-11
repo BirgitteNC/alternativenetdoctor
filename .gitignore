@@ -1,0 +1,35 @@
+# Store filer
+*.zip
+*.tar
+*.gz
+
+# Node modules og build mapper
+node_modules/
+build/
+dist/
+.next/
+.cache/
+
+# Database filer
+*.db
+*.sqlite
+
+# Uploads (hvis de er store)
+public/uploads/
+backend/public/uploads/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
