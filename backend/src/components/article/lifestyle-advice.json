@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_article_lifestyle_advice",
+  "info": {
+    "displayName": "Lifestyle Advice",
+    "description": "Konkrete livsstilsråd"
+  },
+  "options": {},
+  "attributes": {
+    "sleepAdvice": {
+      "type": "richtext"
+    },
+    "exerciseAdvice": {
+      "type": "richtext"
+    },
+    "dietAdvice": {
+      "type": "richtext"
+    },
+    "stressReduction": {
+      "type": "richtext"
+    },
+    "otherTips": {
+      "type": "richtext"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_article_causes",
+  "info": {
+    "displayName": "Causes",
+    "description": "Mulige årsager til tilstanden"
+  },
+  "options": {},
+  "attributes": {
+    "lifestyleCauses": {
+      "type": "richtext"
+    },
+    "environmentalCauses": {
+      "type": "richtext"
+    },
+    "otherFactors": {
+      "type": "richtext"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_article_short_explanations",
+  "info": {
+    "displayName": "Short Explanation",
+    "description": "Kort forklaring af tilstanden"
+  },
+  "options": {},
+  "attributes": {
+    "whatIsIt": {
+      "type": "richtext"
+    },
+    "acuteVsChronic": {
+      "type": "richtext"
+    },
+    "prevalence": {
+      "type": "text"
+    }
+  }
+}

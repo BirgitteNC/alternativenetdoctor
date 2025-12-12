@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_article_when_to_see_doctor",
+  "info": {
+    "displayName": "When To See Doctor",
+    "description": "Hvornår man bør kontakte læge"
+  },
+  "options": {},
+  "attributes": {
+    "warningSignals": {
+      "type": "richtext"
+    },
+    "urgentCare": {
+      "type": "richtext"
+    },
+    "regularCheckup": {
+      "type": "richtext"
+    },
+    "disclaimer": {
+      "type": "richtext"
+    }
+  }
+}

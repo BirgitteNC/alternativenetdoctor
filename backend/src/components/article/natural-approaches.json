@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_article_natural_approaches",
+  "info": {
+    "displayName": "Natural Approaches",
+    "description": "Naturlige tilgange (urter, kosttilskud, fødevarer, metoder)"
+  },
+  "options": {},
+  "attributes": {
+    "herbs": {
+      "type": "richtext"
+    },
+    "supplements": {
+      "type": "richtext"
+    },
+    "foods": {
+      "type": "richtext"
+    },
+    "otherMethods": {
+      "type": "richtext"
+    },
+    "importantNotes": {
+      "type": "richtext"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "alternativenetdoctor-backend",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Alternativ Netdoktor Strapi Backend",
+  "scripts": {
+    "develop": "strapi develop",
+    "start": "strapi start",
+    "build": "strapi build",
+    "strapi": "strapi"
+  },
+  "dependencies": {
+    "@strapi/plugin-i18n": "^4.25.0",
+    "@strapi/plugin-users-permissions": "^4.25.0",
+    "@strapi/strapi": "^4.25.0",
+    "better-sqlite3": "^9.4.0",
+    "node-fetch": "^2.7.0",
+    "pg": "^8.11.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^5.3.4",
+    "styled-components": "^5.3.11"
+  },
+  "author": "BNC",
+  "strapi": {
+    "uuid": "alternativenetdoctor-2025"
+  },
+  "engines": {
+    "node": ">=18.0.0 <=20.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
